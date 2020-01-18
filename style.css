@@ -36,5 +36,14 @@ nav ul li a {
 nav ul li ul {
  display: block;
  position: relative;
- background-color: #58595b
+ background-color: #58595b;
+ padding: 10px;
+}
+
+nav ul li ul li a {
+  padding: 8 px 14 px;
+}
+
+nav ul li ul li a:hover {
+  background-color: #f3f3f3;
 }
