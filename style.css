@@ -4,13 +4,6 @@ nav {
   background-color: #58595b;
 }
 
-nav img{
- border: 50%;
- size: 40%;
- line-height: 55px;
- float: left;
-}
-
 nav ul{
 float: left;
 }
