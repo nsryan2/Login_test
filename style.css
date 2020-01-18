@@ -23,4 +23,10 @@ nav ul li {
  list-style: none;
 }
 
-
+nav ul li a {
+ font-family: arial;
+ color: #fff;
+ font-size: 24 px;
+ padding: 24 px 14 px;
+  
+}
