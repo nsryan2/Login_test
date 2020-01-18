@@ -21,12 +21,19 @@ float: left;
 nav ul li {
  float: left;
  list-style: none;
+ position: relative;
 }
 
 nav ul li a {
+ display: block;
  font-family: arial;
  color: #fff;
  font-size: 14 px;
  padding: 22 px 14 px;
  text-decoration: none;
+}
+
+nav ul li a {
+ display: block;
+ position: relative;
 }
